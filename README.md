@@ -34,5 +34,5 @@ Ele permite registrar produções, listar registros e calcular perdas com base e
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/controle-producao.git
+   git clone https://github.com/rogerio-jp/controle-producao.git
    cd controle-producao
